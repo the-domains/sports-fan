@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sports Fan]]></title>
+        <description><![CDATA[Sports Fan]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 18:50:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sports]]></title>
+            <description><![CDATA[<h1>Sports</h1>]]></description>
+            <link>undefinedsports/index.html</link>
+            <guid isPermaLink="false">ece858d4-5d5d-4410-965c-5cf3a3e1fbfd</guid>
+            <pubDate>Mon, 21 Mar 2016 18:50:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
