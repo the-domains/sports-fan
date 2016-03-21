@@ -1,0 +1,28 @@
+name: Sports Fan
+favicon: null
+layout_spectrum: 0.8606253741309047
+typography_spectrum: 0.8851932832039893
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.26423635333776474
+  lightness: 0.15161664923653007
+  saturation: 0.6249473812058568
+  rhythmicContrast: 0.6912439279258251
+purpose: []
