@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sports Fan]]></title>
         <description><![CDATA[Sports Fan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sports-fan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 18:50:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 20:40:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sports-fan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Woody Johnson to Fitzpatrick: 'Come back to the Jets']]></title>
+            <description><![CDATA[<article><h1>Woody Johnson to Fitzpatrick: 'Come back to the Jets'</h1><p>Woody Johnson has a clear message for quarterback Ryan Fitzpatrick: "Come back to the Jets." That's what the owner told a group of reporters at the NFL Annual Meeting in Boca Raton, Fla., on Monday. Fitzpatrick and the Jets are currently locked in contract stalemate that shows no sign of a let-up as the calendar creeps toward April.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e368270a4f94674486fd641571552202c80a0ae6.png"></article>]]></description>
+            <link>http://www.nfl.com/news/story/0ap3000000646110/article/woody-johnson-to-fitzpatrick-come-back-to-the-jets</link>
+            <guid isPermaLink="false">bcdfd00b-0ab2-47b4-b2a9-c2529f52c97e</guid>
+            <pubDate>Mon, 21 Mar 2016 20:40:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sports]]></title>
-            <description><![CDATA[<h1>Sports</h1>]]></description>
-            <link>undefinedsports/index.html</link>
+            <description><![CDATA[<article><h1>Sports</h1><p>Sports, Sports, Sports.... Your whole life sports</p></article>]]></description>
+            <link>https://thegrid.ai/sports-fan/sports/index.html</link>
             <guid isPermaLink="false">ece858d4-5d5d-4410-965c-5cf3a3e1fbfd</guid>
             <pubDate>Mon, 21 Mar 2016 18:50:16 GMT</pubDate>
         </item>
